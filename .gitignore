@@ -1,0 +1,5 @@
+
+ims-java-examples/.classpath
+*.prefs
+*.class
+ims-java-examples/target/
